@@ -4,7 +4,6 @@ uvicorn
 requests
 beautifulsoup4
 transformers
-spacy
 googletrans==4.0.0-rc1
 gtts
 python-multipart
