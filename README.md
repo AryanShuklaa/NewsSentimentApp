@@ -5,6 +5,7 @@ This project fetches **real-time news** articles for a given company, performs *
 
 🚀 **Key Features:**  
 ✔ **Fetches news** from News API 
+
 ✔ **Performs sentiment analysis** using Hugging Face transformers  
 ✔ **Extracts key topics** using spaCy  
 ✔ **Generates Hindi speech summaries** using Google Translate & gTTS  
