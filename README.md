@@ -16,7 +16,6 @@ This project fetches **real-time news** articles for a given company, performs *
 - **FastAPI** → Backend API  
 - **Streamlit** → Frontend UI  
 - **Hugging Face Transformers** → Sentiment Analysis (DistilBERT)  
-- **spaCy** → Named Entity Recognition (Topic Extraction)  
 - **Google Translate & gTTS** → Hindi audio generation  
 - **BeautifulSoup & Requests** → Web scraping for news  
 
